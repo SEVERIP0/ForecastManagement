@@ -1,0 +1,56 @@
+[
+    {
+        "Description": "Salario Sergio",
+        "Amount": 27000,
+        "IntervalTimeType": 4,
+        "AmountType": "Ingreso"
+    },
+    {
+        "Description": "Salario Perla",
+        "Amount": 24000,
+        "IntervalTimeType": 4,
+        "AmountType": "Ingreso"
+    },
+    {
+        "Description": "Renta spotify",
+        "Amount": 1000,
+        "IntervalTimeType": 4,
+        "AmountType": "Ingreso"
+    },
+    {
+        "Description": "Pago de casa",
+        "Amount": 8400,
+        "IntervalTimeType": 4,
+        "AmountType": "Egreso"
+    },
+    {
+        "Description": "Pago de mantenimiento",
+        "Amount": 1200,
+        "IntervalTimeType": 4,
+        "AmountType": "Egreso"
+    },
+    {
+        "Description": "Recibo de agua",
+        "Amount": 300,
+        "IntervalTimeType": 4,
+        "AmountType": "Egreso"
+    },
+    {
+        "Description": "Recibo de luz",
+        "Amount": 500,
+        "IntervalTimeType": 5,
+        "AmountType": "Egreso"
+    },
+    {
+        "Description": "Gas",
+        "Amount": 200,
+        "IntervalTimeType": 4,
+        "AmountType": "Egreso"
+    },
+    {
+        "Description": "Comida",
+        "Amount": 10000,
+        "IntervalTimeType": 3,
+        "AmountType": "Egreso"
+    }
+]
